@@ -22,7 +22,3 @@ The assembly line aims to optimize the number of workers and assembly line capac
 ## Results
 
 Optimized input variables are found using RSM, leading to improved assembly line efficiency and minimized costs.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
